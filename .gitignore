@@ -1,0 +1,5 @@
+/node_modules
+.env
+/src/middleware/auth.js
+request.http
+/src/models/payment.js
